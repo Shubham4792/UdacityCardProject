@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UdacityCardProject</string>
+    <string name="avatar">avatar</string>
+    <string name="firstname">firstName</string>
+    <string name="lastname">lastName</string>
+    <string name="email">email</string>
+    <string name="bio">bio</string>
+    <string name="about_me">About me:</string>
+    <string name="email_camel">Email:</string>
+    <string name="start_date">Start date:</string>
+    <string name="start_date_camel">startDate</string>
+    <string name="company">Company:</string>
+    <string name="company_lower">company</string>
+    <string name="api_fail">No Data from API</string>
+    <string name="offline">No Internet Connection</string>
+    <string name="url">https://s3-us-west-2.amazonaws.com/udacity-mobile-interview/CardData.json</string>
+</resources>
